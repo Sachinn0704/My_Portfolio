@@ -1,4 +1,3 @@
-
 import { Project, Skill, Experience, Certification } from './types';
 
 export const PROJECTS: Project[] = [
@@ -9,7 +8,7 @@ export const PROJECTS: Project[] = [
     description: 'A comprehensive analytical platform that integrates Face Recognition data with Blockchain records to provide immutable voting analytics and fraud detection patterns.',
     tags: ['Python', 'Tableau', 'Blockchain', 'Data Visualization', 'SQL'],
     imageUrl: 'https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=1200&auto=format&fit=crop',
-    githubUrl: 'https://github.com/SachinBhosagi',
+    githubUrl: 'https://github.com/Sachinn0704/-Blockchain-based-E-Voting-system-with-Facial-Recognition-',
     category: 'Data Science'
   },
   {
@@ -19,7 +18,7 @@ export const PROJECTS: Project[] = [
     description: 'Developed an automated BI tool that tracks retail inventory, analyzes sales velocity, and generates predictive restock reports for small to medium enterprises.',
     tags: ['Python', 'Pandas', 'Power BI', 'MySQL', 'Forecasting'],
     imageUrl: 'https://images.unsplash.com/photo-1586769852044-692d6e3703f0?q=80&w=1200&auto=format&fit=crop',
-    githubUrl: 'https://github.com/SachinBhosagi',
+    githubUrl: 'https://github.com/Sachinn0704/My_Portfolio',
     category: 'Data Science'
   },
   {
@@ -29,7 +28,7 @@ export const PROJECTS: Project[] = [
     description: 'An advanced analytical system that processes cross-channel user inputs to visualize sentiment trends and consumer behavior patterns in real-time.',
     tags: ['NLP', 'Sentiment Analysis', 'Matplotlib', 'Python', 'Data Storytelling'],
     imageUrl: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop',
-    githubUrl: 'https://github.com/SachinBhosagi',
+    githubUrl: 'https://github.com/Sachinn0704/Multi-modal-_AI-project',
     category: 'AI/ML'
   },
   {
@@ -39,7 +38,7 @@ export const PROJECTS: Project[] = [
     description: 'A data-driven security monitor that analyzes system file logs to visualize potential ransomware activity and provide early-warning security reports.',
     tags: ['Python', 'Log Analysis', 'Anomalies', 'Scikit-learn', 'Reporting'],
     imageUrl: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1200&auto=format&fit=crop',
-    githubUrl: 'https://github.com/SachinBhosagi',
+    githubUrl: 'https://github.com/Sachinn0704/task-dependency-management-system',
     category: 'Cybersecurity'
   }
 ];
